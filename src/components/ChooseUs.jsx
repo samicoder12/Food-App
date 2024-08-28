@@ -36,7 +36,7 @@ const HeroTwo = () => {
             <div data-aos="fade-left"
                   data-aos-offset="200"
                   data-aos-easing="ease-in-sine" className="flex justify-center items-center">
-                <img className='rounded-2xl object-cover   ' src="src/assets/photo.avif" alt="hero image1" />
+                <img className='rounded-2xl object-cover   ' src="https://media.istockphoto.com/id/1446478827/photo/a-chef-is-cooking-in-his-restaurants-kitchen.jpg?s=612x612&w=0&k=20&c=jwKJmGErrLe2XsTWNYEEyiNicudYVA4j8jvnTiJdp58=" alt="hero image1" />
             </div>
         </div>
     </div>

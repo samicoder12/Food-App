@@ -37,7 +37,7 @@ export const StarterData = [
     },
     {
         id:5,
-        image:"public/Image/chicken.webp ",
+        image:"https://images.unsplash.com/photo-1532465909-4e0278962a2b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c3RhcnRlciUyMGZvb2R8ZW58MHx8MHx8fDA%3D ",
         rating: "5.0",
         rate: "(87)",
         h1: "Cajun Chicken",

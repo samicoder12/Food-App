@@ -8,7 +8,7 @@ const HeroTwo = () => {
             <div data-aos="fade-right"
                   data-aos-offset="200"
                   data-aos-easing="ease-in-sine" className="flex justify-center items-center">
-                <img className='rounded-2xl object-cover   ' src="https://media.istockphoto.com/id/507636912/photo/cheeseburger-and-fries-on-restaurant-table.jpg?s=612x612&w=0&k=20&c=MGamGAS_Hslqw_Wy6ZP0yHTowNsfbPYzNlVnUOOPi2A=" alt="hero image1" />
+                <img className='rounded-2xl object-cover w-full  ' src="https://media.istockphoto.com/id/507636912/photo/cheeseburger-and-fries-on-restaurant-table.jpg?s=612x612&w=0&k=20&c=MGamGAS_Hslqw_Wy6ZP0yHTowNsfbPYzNlVnUOOPi2A=" alt="hero image1" />
             </div>
 
             <div data-aos="fade-left"

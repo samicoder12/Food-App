@@ -21,7 +21,7 @@ const HeroOne = () => {
             <div  data-aos="fade-left"
                   data-aos-offset="200"
                   data-aos-easing="ease-in-sine" className="flex justify-center">
-                <img className='rounded-2xl  ' src="public/heroimage1.avif" alt="hero image1" />
+                <img className='rounded-2xl w-full  object-cover  ' src="https://media.istockphoto.com/id/1567059883/photo/fresh-vegetarian-salads-overhead-flat-lay-shot-of-an-assortment.jpg?s=612x612&w=0&k=20&c=JAi6KWLHIAyt8AeTOcQlp7S82utA5b_iXS8FGE6tFJM=" alt="hero image1" />
                
             </div>
         </div>

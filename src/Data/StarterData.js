@@ -1,7 +1,7 @@
  export const StarterData = [
     {
         id:1,
-        image:"public/Image/TomatoSalad.webp ",
+        image:"https://media.istockphoto.com/id/1473452859/photo/tasty-cheeseburger-glass-of-cola-and-french-fries-on-wooden-tray-close-up.jpg?s=612x612&w=0&k=20&c=QLq7mv50xRL-LSfLYgUwNHsHm8Ri5nWrIdNwQL0qCqc= ",
         rating: "5.0",
         rate: "(87)",
         h1: "Veg Mixer",
@@ -10,7 +10,7 @@
     },
     {
         id:2,
-        image:"public/Image/pizza.avif ",
+        image:"https://media.istockphoto.com/id/1442417585/photo/person-getting-a-piece-of-cheesy-pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=k60TjxKIOIxJpd4F4yLMVjsniB4W1BpEV4Mi_nb4uJU=",
         rating: "4.8",
         rate: "(87)",
         h1: "Macaroni",
@@ -19,7 +19,7 @@
     },
     {
         id:3,
-        image:"public/Image/Hambargur.avif ",
+        image:"https://images.unsplash.com/photo-1592545287571-8afd34aada57?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZvb2RzfGVufDB8fDB8fHww",
         rating:"4.9",
         rate: "(87)",
         h1: "Nelli",
@@ -28,7 +28,7 @@
     },
     {
         id:4,
-        image:"public/Image/crispy.webp ",
+        image:"https://media.istockphoto.com/id/1442417585/photo/person-getting-a-piece-of-cheesy-pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=k60TjxKIOIxJpd4F4yLMVjsniB4W1BpEV4Mi_nb4uJU= ",
         rating:"4.2",
         rate: "(87)",
         h1: "jalapeno Poppers",

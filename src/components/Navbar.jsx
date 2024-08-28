@@ -47,7 +47,7 @@ const Navbar = () => {
       className="container flex items-center justify-between">
                 <div  data-aos="fade-right"
                 data-aos-offset="300" className='flex gap-2 items-center'>
-                    <img src="public/logo.svg" alt="logo" width={45} height={45} />
+                    <img src="https://treact.owaiskhan.me/static/media/logo.2c489fc453a1783cbadacf914efa3df6.svg" alt="logo" width={45} height={45} />
                     <h1 className='font-bold text-primary text-2xl hover:text-secondary'>Treact</h1>
                 </div>
                 <div  data-aos="fade-left" data-aos-offset="300" className='hidden lg:flex items-center space-x-8'>
